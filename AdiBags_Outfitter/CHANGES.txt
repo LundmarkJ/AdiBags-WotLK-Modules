@@ -1,0 +1,10 @@
+tag 95052481b957e122d591b3c83464b6da375868ad v1.5.10
+Author:	Talyrius <contact@talyrius.net>
+Date:	Sat Jul 10 13:58:00 2021 -0700
+
+commit 7bb0b2d71e25ca00ae8c0294ecfb5704146806f3
+Author: Talyrius <contact@talyrius.net>
+Date:   Sat Jul 10 13:54:44 2021 -0700
+
+    Updated for Patch 9.1: Chains of Domination.
+
